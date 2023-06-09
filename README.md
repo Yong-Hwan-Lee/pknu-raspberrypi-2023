@@ -25,4 +25,4 @@
 		- 서비스 실행, 확인, 종료
 			- systemctl [start|stop|status] 서비스명			
 			- MySQL DB
-			- WebServer
+		- Flask 기본
